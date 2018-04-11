@@ -12,9 +12,14 @@ Este repositorio contiene enlaces a legislación, tutoriales, ejemplos, aplicaci
 
 ## Legislación
 
+- [Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno](https://boe.es/buscar/doc.php?id=BOE-A-2013-12887)
+
 ## Tutoriales
 
 ## Ejemplos
+
+- [Presupuestos abiertos del Ayuntamiento de Madrid](https://presupuestosabiertos.madrid.es/es/politicas#view=functional&year=2018)
+- [Proveedores y facturas Ayuntamiento de Getafe](http://gobiernoabierto.getafe.es/presupuestos/proveedores-facturas)
 
 ## Aplicaciones
 
